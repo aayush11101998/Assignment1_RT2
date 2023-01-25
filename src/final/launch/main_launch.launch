@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<launch>
+   <node pkg = "final_assignment" type = "assignment3.py" name = "assignment3" output = "screen"/>
+   <node pkg = "final_assignment" type = "teleop_keyboard.py" name = "teleop_twist_keyboard" output = "screen"/> 
+   <node pkg = "final_assignment" type = "move_base.py" name = "movebase" output = "screen"/>
+</launch>
