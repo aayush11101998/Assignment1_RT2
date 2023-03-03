@@ -7,6 +7,8 @@ Contains the Jupyter_notebook
 ### SA : 
 Contains statistical analysis Click **[here](https://github.com/aayush11101998/Assignment1_RT2/tree/statistical_analysis/statistical_data)** to see the statistical_data collected along with the images
 
+This is the Jupyter_branch
+
 ## Jupyter_Notebook
 In the jupyter notebook a user interface has been provided for the assignment-3 from research track-1. 
 Data visualisation for the user to understand whats going on in a better way is also presented, which provides some insights about the number of times goal 
