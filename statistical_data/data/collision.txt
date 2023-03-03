@@ -1,0 +1,47 @@
+silver_tokens = 7
+my_code
+number of collisions = 2
+number of collisions = 2
+professor_code
+number of collisions = 0
+number of collisions = 0
+
+silver_tokens = 9
+my_code
+number of collisions = 1
+number of collisions = 1
+professor_code
+number of collisions = 0
+number of collisions = 0
+
+silver_tokens = 5 
+my_code 
+number of collisions = 0
+number of collisions = 0
+professor code
+number of collisions = 0
+number of collisions = 0
+
+silver_tokens = 11
+my_code 
+number of collisions = 2
+number of collisions = 2
+professor code
+number of collisions = 0
+number of collisions = 0
+
+silver_tokens = 2
+my_code
+number of collisions = 1
+number of collisions = 1
+professor_code
+number of collisions = 0
+number of collisions = 0
+
+silver_tokens = 3
+my_code
+number of collisions = 2
+number of collisions = 2
+professor_code
+number of collisions = 0
+number of collisions = 0

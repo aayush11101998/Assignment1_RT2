@@ -1,0 +1,47 @@
+tokens = 7
+my_code 
+distance = 10020 units
+distance = 10020 units
+professor_code 
+distance = 6600 units
+distance = 6600 units
+
+tokens = 9
+my_code 
+distance = 11100 units
+distance = 11040 units
+professor_code 
+distance = 6930 units
+distance = 6930 units
+
+tokens = 5
+my_code 
+distance = 7290 units
+distance = 7290 units
+professor_code 
+distance = 6150 units
+distance = 6090 units
+
+tokens = 11
+my_code 
+distance = 0
+distance = 0
+professor_code 
+distance = 0
+distance = 0
+
+tokens = 2
+my_code 
+distance = 7200 units
+distance = 7230 units
+professor_code 
+distance = 6030units
+distance = 6000 units
+
+tokens = 3
+my_code 
+distance = 7740 units
+distance = 7740 units
+professor_code 
+distance = 6120 units
+distance = 6090 units

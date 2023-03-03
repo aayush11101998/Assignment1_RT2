@@ -1,0 +1,47 @@
+silver_tokens = 7
+my_code
+real = 334s 
+real = 334s 
+professor_code
+real = 220s
+real = 220s
+
+silver_tokens = 9
+my_code
+real = 370s
+real = 368s
+professor_code
+real = 231s
+real = 231s
+
+silver_tokens = 5
+my_code
+real = 243s
+real = 243s
+professor_code
+real = 205s
+real = 203s
+
+silver_tokens = 11
+my_code
+real = 0  
+real = 0
+professor_code
+real = 0
+real = 0
+silver_tokens = 2
+my_code
+real = 240s
+real = 241s
+professor_code
+real = 201s
+real = 200s
+
+silver tokens = 3
+my_code
+real = 258s
+real = 258s
+professor_code
+real = 204s
+real = 203s
+
