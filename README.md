@@ -5,7 +5,7 @@ Contains the sphynx documentation. Click **[here](https://aayush11101998.github.
 ### Jupyter_notebook: 
 Contains the Jupyter_notebook 
 ### SA : 
-Contains statistical analysis Click **[here](https://github.com/aayush11101998/Assignment1_RT2/tree/statistical_analysis/statistical_data) to see the statistical_data collected along with the images
+Contains statistical analysis Click **[here](https://github.com/aayush11101998/Assignment1_RT2/tree/statistical_analysis/statistical_data)** to see the statistical_data collected along with the images
 
 ## Jupyter_Notebook
 In the jupyter notebook a user interface has been provided for the assignment-3 from research track-1. 
