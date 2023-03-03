@@ -4,7 +4,9 @@ Contains the sphynx documentation.
 ### Jupyter_notebook: 
 Contains the Jupyter_notebook Click **[here](https://github.com/aayush11101998/Assignment1_RT2/blob/jupyter_notebook/src/final/jupyros.ipynb)** to view the notebook.
 ### SA : 
-Contains statistical analysis
+Contains statistical analysis Click **[here](https://github.com/aayush11101998/Assignment1_RT2/tree/statistical_analysis/statistical_data)** to see the statistical_data collected along with the images.
+
+
 
 
 This is the master branch and contains Sphynx Documentation.
