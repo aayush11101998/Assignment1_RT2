@@ -13,6 +13,6 @@ This is the statistical branch which contains the statistical analysis of codes 
 robot in a given environment. The statistical analysis compares which algorithm is better to use. Read **[report](https://github.com/aayush11101998/Assignment1_RT2/blob/statistical_analysis/Statistical_Report.pdf)**  to find out more.
 
 Image of the environment:
-![image1](https://github.com/aayush11101998/Assignment1_RT2/blob/statistical_analysis/statistical_data/images_my_code/7_tokens.png)
+![image1](https://github.com/aayush11101998/Assignment1_RT2/blob/statistical_analysis/statistical_data/images_prof_code/7_tokens.png)
 
 
