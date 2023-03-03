@@ -6,6 +6,8 @@ Contains the Jupyter_notebook Click **[here](https://github.com/aayush11101998/A
 ### SA : 
 Contains statistical analysis
 
+
+This is the master branch and contains Sphynx Documentation.
 # assignment-1_Research_Track-2
 The sphinx documentation of final assignment from research track-1 is **[here](https://aayush11101998.github.io/Assignment1_RT2/py-modindex.html)**
   ## SOFTWARE ARCHITECTURE
